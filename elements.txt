@@ -1,0 +1,11 @@
+Headings
+Paragraph
+Blurb
+Bold
+Italics
+Condensed
+Light
+Hairline
+Underline
+Superscript
+Subscript
