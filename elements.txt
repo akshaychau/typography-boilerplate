@@ -1,6 +1,17 @@
+
+/* Type Elements */
+
+We will use traditional typography elements in this section and add web related sections.
+
 Headings
 Paragraph
 Blurb
+Hero copy
+
+
+
+/* Type Nuances */
+
 Bold
 Italics
 Condensed
@@ -9,3 +20,10 @@ Hairline
 Underline
 Superscript
 Subscript
+Ligatures
+
+
+
+/* Future topics */
+
+Animation classes
